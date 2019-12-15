@@ -20,11 +20,6 @@ The program should provide a REST API for:
 
 Build :   `mvn install`
 
-Test: `mvn test`
-
-Run: `mvn springboot:run`
-
-
 ---------------------
 
 
