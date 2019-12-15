@@ -1,0 +1,87 @@
+[
+  {
+    "id": "001",
+    "first_name": "Erhard",
+    "last_name": "Stickel",
+    "contacts": [
+      {
+        "id": "050",
+        "first_name": "Sina",
+        "last_name": "Berberich",
+        "phonenumbers": [
+          "+497722210193","+498551563300","+496628448066"
+        ]
+      },
+      {
+        "id": "060",
+        "first_name": "Vivien",
+        "last_name": "Holzwarth",
+        "phonenumbers": [
+          "+496423302901"
+        ]
+      },
+      {
+        "id": "070",
+        "first_name": "Margit",
+        "last_name": "Holzwarth",
+        "phonenumbers": [
+          "+494532654228"
+        ]
+      },
+      {
+        "id": "080",
+        "first_name": "Maren",
+        "last_name": "Röbbeln",
+        "phonenumbers": [
+          "+490384269689"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "002",
+    "first_name": "Josef",
+    "last_name": "Wesener",
+    "contacts": [
+      {
+        "id": "080",
+        "first_name": "Erik",
+        "last_name": "Harting",
+        "phonenumbers": [
+          "+49201758516"
+        ]
+      },
+      {
+        "id": "090",
+        "first_name": "Peter",
+        "last_name": "Thal",
+        "phonenumbers": [
+          "+496772386235" , "+49397799769"
+        ]
+      },
+      {
+        "id": "100",
+        "first_name": "lydia",
+        "last_name": "Löhnig",
+        "phonenumbers": [
+          "+497552564359"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "003",
+    "first_name": "Pauline",
+    "last_name": "Zimmer",
+    "contacts": [
+      {
+        "id": "110",
+        "first_name": "Erik",
+        "last_name": "Harting",
+        "phonenumbers": [
+          "+49201758516"
+        ]
+      }
+    ]
+  }
+]
