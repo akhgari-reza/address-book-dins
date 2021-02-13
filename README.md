@@ -17,7 +17,7 @@ The program should provide a REST API for:
 
 --------------------------------------------------
 
-Build :   `mvn install`
+Build :   `mvn clean package`
 
 ---------------------
 
