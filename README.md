@@ -1,22 +1,3 @@
-# Test
-1. Write a program that passes specified requirements;
-2. Write unit tests for the written code;
-3. The following technologies should be used: Java (8 versions or higher), Spring Boot, JUnit. Databases should not be used
-4. Must be provided: the source code of the program, unit tests, instructions for starting the program, examples of calling REST methods of the program.
-5. It is good to pay special attention to the REST specification and organization of REST methods.
- 
-## Basic requirements:
-It is necessary to write the server-side application (without UI) for working with users and their adress book.
-The program should provide a REST API for:
-* receiving a list of all users (phone book owners)
-* create, receive (by id), delete, edit user
-* create, receive (by id), delete, edit entries in the phone book
-* receiving a list of all entries in the user's phone book
-* search for users by name (or part of the name)
-* search for contacts by phone number
-
---------------------------------------------------
-
 Build :   `mvn clean package`
 
 ---------------------
